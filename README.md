@@ -57,6 +57,8 @@ Because the [Clausen et al., 2015 data](https://www.ncbi.nlm.nih.gov/geo/query/a
 
 Developed from my [blast-binder repo](https://github.com/fomightez/blast-binder) that was mainly made from adding the ability to run BLAST to much of the binderized repo from [here](https://github.com/fomightez/qgrid-notebooks) with the ability to also run PatMatch, see [here](https://github.com/fomightez/patmatch-binder) for information about PatMatch and launchable Jupyter notebooks demonstrating its use.
 
+I borrrowed the 'warning' highlight/introductory text about notebooks at the top of the included notebook from Tim Sherratt's notebook [here](https://github.com/GLAM-Workbench/te-papa-api/blob/master/Exploring-the-Te-Papa-collection-API.ipynb).
+
 
 Click this button below to begin:
 
