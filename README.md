@@ -23,7 +23,7 @@ This repository is set up to analyze ribonucleotide incorporation data from Clau
 
 In the notebook that is launched I illustrate how to use the script and some of the various options it has.  Alternatively, the notebook can be viewed statically [here](https://nbviewer.jupyter.org/github/fomightez/clausen_ribonucleotides/blob/master/index.ipynb).
 
-The necessary data is already available when in the active Jupyter session launched from [here](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb).
+The necessary data is already available when in the active Jupyter session [launched from this repository](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb).
 
 
 
