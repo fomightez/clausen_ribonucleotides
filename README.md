@@ -21,9 +21,9 @@ Usage
 
 This repository is set up to analyze ribonucleotide incorporation data from Clausen et al. 2015 data (see below), demonstrating the use of my script `plot_5prime_end_from_bedgraph.py`. The script will automatically be obtained when the notebook is run in the active Jupyter session launched from [here](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb).
 
-In the notebook that is launched I illustrate how to use the script and some of the various options it has. ** Alternatively, the notebook with most of resources can be viewed statically [here](https://nbviewer.jupyter.org/github/fomightez/clausen_ribonucleotides/blob/master/index.ipynb).
+In the notebook that is launched I illustrate how to use the script and some of the various options it has.  Alternatively, the notebook can be viewed statically [here](https://nbviewer.jupyter.org/github/fomightez/clausen_ribonucleotides/blob/master/index.ipynb).
 
-The necessary data is already available when the in the active Jupyter session launched from [here](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb).
+The necessary data is already available when in the active Jupyter session launched from [here](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb).
 
 
 
