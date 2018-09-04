@@ -42,7 +42,7 @@ The sequences and analyzed data from that publication have been deposited in the
 
 
 ***Clarifying Data Attribution: 
-I, Wayne, had nothing to do with that manuscript or data. I simply generated after-the-fact a utility script for analyzing data for specific regions from there. That script is called `plot_5prime_end_from_bedgraph.py` and is available [here](https://github.com/fomightez/sequencework/tree/master/plot_read_data). It is demonstrated in the notebook launched from [here](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb)
+I, Wayne, had nothing to do with that manuscript or data. I simply generated after-the-fact a utility script for analyzing data for specific regions from there. That script is called `plot_5prime_end_from_bedgraph.py` and is available [here](https://github.com/fomightez/sequencework/tree/master/plot_read_data). It is demonstrated in the notebook launched from [here](http://beta.mybinder.org/v2/gh/fomightez/clausen_ribonucleotides/master?filepath=index.ipynb)***
 
 
 
